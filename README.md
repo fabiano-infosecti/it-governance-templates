@@ -137,10 +137,10 @@ Please ensure contributed content is original, free of confidential data, and al
 
 ## Author
 
-**[SEU NOME]** — IT Executive | GRC | Information Security | LGPD
+**Fabiano Santos** — IT Executive | GRC | Information Security | LGPD
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/SEU-PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabiano-infosecti)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/fabiano-infosecti)
 
 ---
 
